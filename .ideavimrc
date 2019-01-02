@@ -1,0 +1,9 @@
+set ic
+set hls
+set is
+set visualbell
+set noerrorbells
+set clipboard=unnamed
+set showmode
+set number
+set relativenumber
