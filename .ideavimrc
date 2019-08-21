@@ -7,3 +7,8 @@ set clipboard=unnamed
 set showmode
 set number
 set relativenumber
+"set nu rnu
+set clipboar+=ideaput
+"extentions
+set vim-surround
+set vim-multiple-cursors
